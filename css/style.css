@@ -60,6 +60,7 @@ address {
 
 
 div.maincontent  {
+	font-size: large;
 	position: absolute;
 	margin-top:20px;
 	left: 148px;
@@ -67,8 +68,6 @@ div.maincontent  {
 	top: -14px;
 }
 
- 
- 
 #buttons ul { 
 		list-style:none;
 		margin:20px;
