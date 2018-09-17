@@ -84,15 +84,15 @@ div.maincontent  {
 	text-decoration:none;
 	width:150px;
 	padding:5px 0;
-	background:#630;
-	color:#FFF;
+	background:light green;
+	color:light yellow;
 	float:left;
 	text-align:center;
 	border-left:1px solid #fff;
         } 
  
 #buttons ul li a:hover {
-	color: yellow;
-	background-color: green;
+	color: #000;
+	background-color: #ccc;
         } 
  
