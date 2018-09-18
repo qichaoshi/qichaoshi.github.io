@@ -72,7 +72,7 @@ div.maincontent  {
 		list-style:none;
 		margin:20px;
 		padding:0;
-		width:700px;
+		width:800px;
 		overflow:hidden;     
 		} 
  
@@ -82,9 +82,9 @@ div.maincontent  {
  
 #buttons ul li a {
 	text-decoration:none;
-	width:120px;
+	width:150px;
 	padding:5px 0;
-	background:navy;
+	background:#630;
 	color:#FFF;
 	float:left;
 	text-align:center;
@@ -94,5 +94,4 @@ div.maincontent  {
 #buttons ul li a:hover {
 	color: #000;
 	background-color: #CCC;
-        } 
- 
+        }
