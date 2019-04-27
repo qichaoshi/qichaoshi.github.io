@@ -1,7 +1,7 @@
 
 @media all {
    .basestyle {
-          font-family: "Garamond", "Arial", "Times";
+          font-family: "Times", "Garamond", "Arial";
           padding-bottom: 2pt;
           color: black;
           background-color: white;
@@ -9,7 +9,7 @@
    }
 
    .pubstyle {
-          font-family: "Garamond", "Arial", "Times";
+          font-family: "Times", "Garamond", "Arial";
           padding-bottom: 2pt;
           color: black;
           background-color: white;
@@ -22,7 +22,7 @@
 	}
 
    .linkstyle {
-	font-family: "Garamond", "Arial", "Times";
+	font-family: "Times", "Garamond", "Arial";
 	padding-bottom: 2pt;
 	color: #09F;
 	background-color: white;
@@ -70,7 +70,7 @@ div.maincontent  {
 
 #buttons ul { 
 		list-style:none;
-		margin:20px;
+        margin:20px;
 		padding:0;
 		width:600px;
 		overflow:hidden;     
@@ -81,17 +81,18 @@ div.maincontent  {
         } 
  
 #buttons ul li a {
-	text-decoration:none;
-	width:100px;
-	padding:5px 0;
-	background:navy;
-	color:#FFF;
+	text-decoration:underline;
+	padding:0;
+    color: navy;
 	float:left;
 	text-align:center;
-	border-left:1px solid #fff;
+	border-left:15px solid #fff;
         } 
  
 #buttons ul li a:hover {
-	color: #000;
-	background-color: #CCC;
+	text-decoration:none;
+	color:#FFF;
+	background-color:#1e8ab6;
         }
+
+
